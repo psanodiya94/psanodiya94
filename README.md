@@ -10,8 +10,8 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 - **Learning**: Rust, Go
 - **Other Languages**: Python 3, Core Java
 - **Web Development**: HTML, CSS, JavaScript
-- **DevOps**: GitHub Actions
-- **Databases**: DB2, MySQL, PostgreSQL
+- **DevOps**: GitHub Actions, Docker
+- **Databases**: DB2, MySQL, PostgreSQL, NoSQL, MongoDB
 
 ---
 
