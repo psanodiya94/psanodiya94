@@ -51,10 +51,6 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 
 ### 🔭 Projects
 
-- **Project 1**: 
-- **Project 2**: 
-- **Project 3**: 
-
 Feel free to check out my repositories for more!
 
 ---
