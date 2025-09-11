@@ -15,14 +15,6 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 
 ---
 
-### 📈 GitHub Stats
-
-![psanodiya94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psanodiya94&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psanodiya94&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me
 
 - LinkedIn: [Pradumn Sanodiya](https://www.linkedin.com/in/psanodiya94)
@@ -32,7 +24,8 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 
 ### 🌱 What I'm currently learning
 
-- Enhancing my knowledge in Rust and Go programming languages
+- Enhancing my C++ understanding and Linux System Programming
+- Enhancing my knowledge in Go programming language
 - Improving my skills in cloud computing (AWS)
 
 ---
@@ -40,12 +33,6 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 ### 💬 Ask me about
 
 - Programming in C++
-
----
-
-### 📜 Certifications
-
-- [List any certifications you have or plan to obtain here]
 
 ---
 
@@ -58,6 +45,7 @@ Feel free to check out my repositories for more!
 ### ⚡ Fun fact
 
 When I'm not coding, I enjoy mountain trekking and playing chess.
+Also collects HobbyGrade RC and Plays with them.
 
 ---
 
