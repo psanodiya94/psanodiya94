@@ -17,7 +17,7 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 
 ### 📫 How to reach me
 
-- LinkedIn: [Pradumn Sanodiya](https://www.linkedin.com/in/psanodiya94)
+- LinkedIn: [Pradumn Sanodiya](https://www.linkedin.com/in/pradumn-sanodiya/)
 - Email: psanodiyasanodiya@gmail.com
 
 ---
@@ -25,7 +25,7 @@ I'm **Pradumn Sanodiya** (aka `psanodiya94`), a passionate software developer wi
 ### 🌱 What I'm currently learning
 
 - Enhancing my C++ understanding and Linux System Programming
-- Enhancing my knowledge in Go programming language
+- Enhancing my knowledge in the Go programming language
 - Improving my skills in cloud computing (AWS)
 
 ---
